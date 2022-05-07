@@ -1,0 +1,39 @@
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# sbt specific
+*out*
+.cache/
+*.scannerwork*
+.history/
+.lib/
+.project
+.classpath
+dist/*
+target/
+bin/
+libexec/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+logs/
+project/*-shim.sbt
+project/project/
+project/target/
+target/
+out
+.scannerwork
+# IntelliJ IDEA specific
+**/.idea/
+**/target/
+**/*.iml
+
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet

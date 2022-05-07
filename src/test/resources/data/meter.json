@@ -1,0 +1,114 @@
+[
+  {
+    "client.code": "client_1",
+    "code": "meter_1",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_1",
+      "sensor_2"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_2",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_3"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_3",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_4",
+      "sensor_5"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_4",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_6"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_5",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_7",
+      "sensor_8"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_6",
+    "meter.fluid": "ELEC"
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_7",
+    "meter.fluid": "GAS",
+    "meter.sensor": [
+      "sensor_9"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_8",
+    "meter.fluid": "GAS",
+    "meter.sensor": [
+      "sensor_10"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_9",
+    "meter.fluid": "WATER",
+    "meter.sensor": [
+      "sensor_11"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_10",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_12"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_11",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_13"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_12",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_14"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_13",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_15"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_14",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_16"
+    ]
+  }
+]

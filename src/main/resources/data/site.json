@@ -1,0 +1,478 @@
+[
+
+  {
+    "client.code": "client_2",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_11",
+      "meter_8"
+    ],
+    "exit.meter": [
+      "meter_3",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+  {
+    "client.code": "client_3",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  }, {
+  "client.code": "client_3",
+  "code": "site_2",
+  "entry.meter": [
+    "meter_11",
+    "meter_8"
+  ],
+  "exit.meter": [
+    "meter_3",
+    "meter_4"
+  ]
+},
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  }, {
+  "client.code": "client_3",
+  "code": "site_2",
+  "entry.meter": [
+    "meter_11",
+    "meter_8"
+  ],
+  "exit.meter": [
+    "meter_3",
+    "meter_4"
+  ]
+},
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  }, {
+  "client.code": "client_2",
+  "code": "site_2",
+  "entry.meter": [
+    "meter_11",
+    "meter_8"
+  ],
+  "exit.meter": [
+    "meter_3",
+    "meter_4"
+  ]
+},
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  }, {
+  "client.code": "client_1",
+  "code": "site_2",
+  "entry.meter": [
+    "meter_11",
+    "meter_8"
+  ],
+  "exit.meter": [
+    "meter_3",
+    "meter_4"
+  ]
+},
+  {
+    "client.code": "client_3",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_3",
+      "meter_7",
+      "meter_11"
+    ]
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_10"
+    ],
+    "middle.meter": [
+      "meter_9",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_12",
+      "meter_14"
+    ]
+  }, {
+  "client.code": "client_1",
+  "code": "site_2",
+  "entry.meter": [
+    "meter_11",
+    "meter_8"
+  ],
+  "exit.meter": [
+    "meter_3",
+    "meter_4"
+  ]
+},
+  {
+    "client.code": "client_2",
+    "code": "site_2",
+    "entry.meter": [
+      "meter_5",
+      "meter_6",
+      "meter_3",
+      "meter_8"
+    ]
+  },
+  {
+    "client.code": "client_3",
+    "code": "site_3",
+    "entry.meter": [
+      "meter_9",
+      "meter_1"
+    ],
+    "middle.meter": [
+      "meter_11",
+      "meter_12"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_14"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "site_1",
+    "entry.meter": [
+      "meter_12",
+      "meter_3"
+    ],
+    "exit.meter": [
+      "meter_13",
+      "meter_4"
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

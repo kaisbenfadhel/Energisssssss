@@ -1,0 +1,25 @@
+
+{
+ "sensorPath" : "src/main/resources/data/sensor.json",
+ "sitePath": "src/main/resources/data/site.json",
+ "meterPath" :"src/main/resources/data/meter.json",
+ "rawPath" :"src/main/resources/data/raw_data.csv",
+ "ByFluidByMeterPositionBySite":["client_code","meter_fluid","position","code_site"],
+ "targetPathByFluidMeterPositionSite" : "src/main/resources/consumption/by_fluid_by_meter_position_by_site",
+ "ByFluidByMeterPositionForNSite": ["client_code","meter_fluid","position"],
+ "targetPathByFluidMeterPositionNSite": "src/main/resources/consumption/by_fluid_by_meter_position_for_n_site",
+ "ByMeterPositionForNSite": ["client_code","tag","code_site"],
+ "targetPathByMeterPositionForNSite": "src/main/resources/consumption/by_tag_by_site",
+ "ByFluidByTagForNSite": ["client_code","tag"],
+ "pathTargetByTagForNSite":"src/main/resources/consumption/by_tag_for_n_site",
+
+
+
+ "targetTestPathByFluidMeterPositionSite" : "src/test/resources/consumption/by_fluid_by_meter_position_by_site",
+
+ "targetTestPathByFluidMeterPositionNSite": "src/test/resources/consumption/by_fluid_by_meter_position_for_n_site",
+
+ "targetTestPathByMeterPositionForNSite": "src/test/resources/consumption/by_tag_by_site",
+
+ "pathTestTargetByTagForNSite":"src/test/resources/consumption/by_tag_for_n_site"
+}

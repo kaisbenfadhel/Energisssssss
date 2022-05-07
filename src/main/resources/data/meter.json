@@ -1,0 +1,147 @@
+[
+  {
+    "client.code": "client_1",
+    "code": "meter_1",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_1",
+      "sensor_2"
+    ]
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "meter_11",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_1",
+      "sensor_2"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_2",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_11"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_3",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_6",
+      "sensor_5"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_5",
+    "meter.fluid": "ELEC"
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_10",
+    "meter.fluid": "GAS",
+    "meter.sensor": [
+      "sensor_11"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_11",
+    "meter.fluid": "GAS",
+    "meter.sensor": [
+      "sensor_9"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_8",
+    "meter.fluid": "WATER",
+    "meter.sensor": [
+      "sensor_13"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_10",
+    "meter.fluid": "ELEC",
+    "meter.sensor": [
+      "sensor_1"
+    ]
+  },
+  {
+    "client.code": "client_3",
+    "code": "meter_12",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_1"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_11",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_14"
+    ]
+  },
+  {
+    "client.code": "client_3",
+    "code": "meter_12",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_15"
+    ]
+  },
+  {
+    "client.code": "client_2",
+    "code": "meter_13",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_16"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_14",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_16",
+      "sensor_14",
+      "sensor_12",
+      "sensor_2",
+      "sensor_8",
+      "sensor_9",
+      "sensor_10",
+      "sensor_1"
+    ]
+  },
+
+  {
+    "client.code": "client_3",
+    "code": "meter_11",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_5"
+    ]
+  },
+  {
+    "client.code": "client_3",
+    "code": "meter_6",
+    "meter.fluid": "HEAT",
+    "meter.sensor": [
+      "sensor_16"
+    ]
+  },
+  {
+    "client.code": "client_1",
+    "code": "meter_12",
+    "meter.fluid": "HOT_WATER",
+    "meter.sensor": [
+      "sensor_1"
+    ]
+  }
+]

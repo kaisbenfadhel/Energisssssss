@@ -1,0 +1,482 @@
+[
+
+  {
+    "client.code": "client_1",
+    "code": "sensoid_8",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 2,
+    "tag": "general"
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_9",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 20,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59"
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_10",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 0.5
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_11",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 20
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_12",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 5
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_13",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 10
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_14",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_15",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_3",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_17",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 100,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_12",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "sensor.installation": "2020-06-01T00:00:00",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_2",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_6",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_5",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 100,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_6",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_7",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensoid_8",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 2,
+    "tag": "general"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_11",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 20,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_15",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 0.5
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_5",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 20
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_9",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 5
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_12",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 10
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_13",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_15",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_1",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_3",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_17",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 100,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_12",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "sensor.installation": "2020-06-01T00:00:00",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_2",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_6",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_5",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 100,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_6",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 1
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_1",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 100,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59",
+    "tag": "GENERAL"
+  },
+
+  {
+    "client.code": "client_3",
+    "code": "sensor_9",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_6",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 100,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_5",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_7",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensoid_8",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 2,
+    "tag": "general"
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "sensor_9",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 5
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_12",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 10
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_13",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_15",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_1",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 100,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_14",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "sensor.installation": "2020-06-01T00:00:00",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_4",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_1",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 100,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_14",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "sensor.installation": "2020-06-01T00:00:00",
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_4",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_9",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_6",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 100,
+    "tag": "BUILDING"
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_5",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_7",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 1,
+    "tag": "GENERAL"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensoid_8",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 2,
+    "tag": "general"
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_11",
+    "sensor.id": "id_3",
+    "sensor.pulse_weight": 20,
+    "sensor.installation": "2020-01-01T00:00:00",
+    "sensor.uninstallation": "2020-05-31T23:59:59"
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_15",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 0.5
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_5",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 20
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_9",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 5
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_12",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 10
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_13",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 1
+  },
+  {
+    "client.code": "client_3",
+    "code": "sensor_7",
+    "sensor.id": "id_2",
+    "sensor.pulse_weight": 0.01
+  },
+  {
+    "client.code": "client_2",
+    "code": "sensor_16",
+    "sensor.id": "id_1",
+    "sensor.pulse_weight": 2
+  },
+  {
+    "client.code": "client_1",
+    "code": "sensor_13",
+    "sensor.id": "id_4",
+    "sensor.pulse_weight": 10,
+    "tag": "BUILDING"
+  }
+
+
+
+
+]
